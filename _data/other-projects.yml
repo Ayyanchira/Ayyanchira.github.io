@@ -1,0 +1,53 @@
+- name: North Carolina DMV Test
+  url: https://github.com/Ayyanchira/DMV_NC/wiki
+  code: https://github.com/Ayyanchira/DMV_NC
+  description: Small Python project created as for project submission for the course - Survey of Programming Language. Learnt many different features that Python language provides and learnt how it is different from many of the other familiar languages.
+  used:
+    - thing: Python
+    - thing: Excel
+
+- name: Mapbox AR
+  url: https://github.com/Ayyanchira/MapBoxExplore/wiki
+  code: https://github.com/Ayyanchira/MapBoxExplore
+  description: A simple POC to show case how live traffic can be augmented beside a real map. <a class="underline-link" href ="https://www.youtube.com/watch?v=I5wQIU2wk98" target="_blank">Video Demo</a>. Developed to help students of Visualization class to understand how to setup Unity scene, use Vuforia and Mapbox and setting up World space canvas.
+  used:
+    - thing: Unity
+    - thing: Vuforia
+    - thing: Mapbox
+    - thing: Visual Studio
+
+- name: Project Boost
+  url: https://github.com/Ayyanchira/Project_Boost/wiki
+  code: https://github.com/Ayyanchira/Project_Boost
+  description: A simple Unity game made from scratch with custom assets for rocket. Made use of sound, particle effects, lights, scene and level management developed to learn more about Unity.
+  used:
+    - thing: Unity
+    - thing: Visual Studio
+
+- name: FireChat
+  url: https://github.com/Ayyanchira/FireChat/wiki
+  code: https://github.com/Ayyanchira/FireChat
+  description: Don't wait for the sender to hit send button. Know whats going on the mind while typing. See other users backspacing and correcting their text. With Firebase realtime database, this app allows user to chat realtime.
+  used:
+    - thing: Swift
+    - thing: Xcode
+    - thing: Firebase
+    - thing: Alamofire
+
+- name: AutoCrop Document
+  url: https://github.com/Ayyanchira/Auto-cropping-of-document/wiki
+  code: https://github.com/Ayyanchira/Auto-cropping-of-document
+  description: Matlab function that will automatically crop a document out of an image using advanced image processing concepts like Image enhancement, Thresholding, Hough transform
+  used:
+    - thing: Matlab
+
+- name: RoomiesApp REST APIs
+  url: https://github.com/Ayyanchira/RoomiesApp
+  code: https://github.com/Ayyanchira/RoomiesApp
+  description: Does your living with roommates has imbalance in how much you contribute for home? RoomiesApp helps you register what all you did gaining some points and helps everyone keep track of how much contribution they are left behind with.
+  used:
+    - thing: Node.JS
+    - thing: Amazon EC2
+    - thing: MySQL Server
+
+
