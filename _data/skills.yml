@@ -18,6 +18,7 @@ languages:
 
 projectmanagement:
   - item: HP Agile Manager
+  - item: Atlassian JIRA
   - item: Taiga
   - item: Figma
 
@@ -27,6 +28,7 @@ tools:
   - item: Unity
   - item: Github and Bitbucket
   - item: Postman
+  - item: Mapbox & QGIS
 
 # design:
 #   - item: Figma
