@@ -74,4 +74,27 @@ $(function() {
   sr.reveal('.experience', { viewFactor: 0.2 });
   sr.reveal('.featured-projects', { viewFactor: 0.1 });
   sr.reveal('.other-projects', { viewFactor: 0.05 });
+
+  //call webcounter API
+  var settings = {
+  "async": true,
+  "crossDomain": true,
+  "url": "http://3.87.54.146:3000/webcounter/addCount",
+  "method": "POST",
+  "headers": {
+    "Content-Type": "application/json",
+    "cache-control": "no-cache",
+    "Postman-Token": "92539fac-a5f1-4bf8-bd1e-f6f68a1c79d6"
+  },
+  "processData": false,
+  "data": {
+      "websiteName":"facebook.com"
+    }
+}
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+});
+
+
 });
