@@ -79,7 +79,7 @@ $(function() {
   var settings = {
   "async": true,
   "crossDomain": true,
-  "url": "http://localhost:3000/webcounter/addCount",
+  "url": "http://3.87.54.146:3000/webcounter/addCount",
   "method": "POST",
   "data": {
       "websiteName":"ayyanchira.github.io"
