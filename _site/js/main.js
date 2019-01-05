@@ -79,14 +79,8 @@ $(function() {
   var settings = {
   "async": true,
   "crossDomain": true,
-  "url": "http://3.87.54.146:3000/webcounter/addCount",
+  "url": "http://localhost:3000/webcounter/addCount",
   "method": "POST",
-  "headers": {
-    "Content-Type": "application/json",
-    "cache-control": "no-cache",
-    "Postman-Token": "92539fac-a5f1-4bf8-bd1e-f6f68a1c79d6"
-  },
-  "processData": false,
   "data": {
       "websiteName":"facebook.com"
     }
