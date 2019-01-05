@@ -82,7 +82,7 @@ $(function() {
   "url": "http://localhost:3000/webcounter/addCount",
   "method": "POST",
   "data": {
-      "websiteName":"facebook.com"
+      "websiteName":"ayyanchira.github.io"
     }
 }
 
