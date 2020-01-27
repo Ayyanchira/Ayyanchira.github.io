@@ -25,6 +25,7 @@ projectmanagement:
 
 tools:
   - item: Xcode
+  - item: Android Studio
   - item: Unity
   - item: Github and Bitbucket
   - item: Postman
